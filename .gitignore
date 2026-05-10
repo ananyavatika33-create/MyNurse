@@ -3,3 +3,13 @@ __pycache__/
 *.pyc
 symptom_history.csv
 .DS_Store
+
+# Claude Code settings (local only)
+.claude/
+
+# Mobile
+mobile/.env
+mobile/node_modules/
+
+# Backend
+backend/.env
